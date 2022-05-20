@@ -1,0 +1,26 @@
+{
+    "id": "99869668",
+    "path": "~/Documents/firstpackage/R/hello.R",
+    "project_path": "R/hello.R",
+    "type": "r_source",
+    "hash": "2849253203",
+    "contents": "",
+    "dirty": false,
+    "created": 1653039376473.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "18,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1653040653,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1653040653033,
+    "read_only": false,
+    "read_only_alternatives": []
+}
